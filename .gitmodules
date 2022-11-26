@@ -1,6 +1,9 @@
-[submodule "Tela-icon-theme"]
-	path = Tela-icon-theme
+[submodule "icons/Tela-icon-theme"]
+	path = icons/Tela-icon-theme
 	url = https://github.com/vinceliuice/Tela-icon-theme
-[submodule "Qogir-theme"]
-	path = Qogir-theme
+[submodule "themes/Qogir-theme"]
+	path = themes/Qogir-theme
 	url = https://github.com/vinceliuice/Qogir-theme
+[submodule "themes/vimix-gtk-themes"]
+	path = themes/vimix-gtk-themes
+	url = https://github.com/vinceliuice/vimix-gtk-themes
