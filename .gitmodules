@@ -1,0 +1,6 @@
+[submodule "Tela-icon-theme"]
+	path = Tela-icon-theme
+	url = https://github.com/vinceliuice/Tela-icon-theme
+[submodule "Qogir-theme"]
+	path = Qogir-theme
+	url = https://github.com/vinceliuice/Qogir-theme
